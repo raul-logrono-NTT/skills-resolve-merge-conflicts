@@ -1,2 +1,3 @@
-# Generating conflict
-Omegalul
+# References
+
+* octocat 1 😈
